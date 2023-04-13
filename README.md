@@ -1,3 +1,2 @@
-# Curso de Java Script Moderno-ES6
+# Curso de Java Script Moderno-ES6 para frameworks SPA.
 Professor:MatheusBattisti
-Curso de JavaScript Moderno ES6
